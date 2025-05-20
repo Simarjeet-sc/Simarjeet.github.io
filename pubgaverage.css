@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    width: 1900px;
+    font-size: 100px;
+    font-style: oblique;
+    color: aliceblue;
+    
+
+}
+
+h2{
+    text-align: center;
+    text-orientation: mixed;
+    font-size: 40px;
+    color: aliceblue;
+}
+   
+button{
+    text-align: left;
+    width: 100px;
+    font-size: large;
+
+
+}
+
+body {
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdH_wpX9sXPW6zZ7oDd0HKIb60Ujot8r_Q9wz6YPiJmJJ2Ah9IV1NwnTCYL7iIUjA_VLwqkarQUpj_1Z95bBcsgaBPL5mDySU_srg7Mmz7jaJL51-E9qNCnEZPuccgSY-P9jpPKl2xoqD/w0/pubg-playerunknowns-battlegrounds-minimalist-abstract-uhdpaper.com-4K-127.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
